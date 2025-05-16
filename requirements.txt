@@ -1,0 +1,7 @@
+einops==0.4.1
+torch==2.1.1
+tensorflow==2.10.0
+numpy
+pandas
+scikit-learn
+matplotlib
